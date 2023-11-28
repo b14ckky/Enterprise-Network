@@ -1,7 +1,7 @@
 # Enterprise-Network-Architecture
 A Basic Enterprise Network
 
-- [ ] RIP
+- [x] RIP
 - [ ] OSPF
 - [ ] VLAN
 - [ ] Subnetting
