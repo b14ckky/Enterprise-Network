@@ -1,7 +1,7 @@
 # Enterprise-Network-Architecture
 A Basic Enterprise Network
 
-- This Configuration are available in this project.
+## This Configuration are available in this project.
 
 - [x] RIP
 - [x] OSPF
@@ -16,7 +16,7 @@ A Basic Enterprise Network
 - [x] Mail Server
 - [x] Firewall
 
-- Many More things are up coming...
+## Many More things are up coming...
 
 - [ ] Internet
 - [ ] NAT (Static & Dynamic)
