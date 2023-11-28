@@ -25,6 +25,7 @@ A Basic Enterprise Network
 - [ ] Cloud Computing
 - [ ] Telecommunication Devices etc.....
 
+<br>
 
 ![Network Architecture](Architecture.jpeg)
 
